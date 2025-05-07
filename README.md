@@ -1,4 +1,3 @@
-@@ -1,51 +1,51 @@
 <h2 align="left">Hi 👋! My name is Bhupendra Sapkota, and I'm a tech enthusiast, from Itahari.</h2>
 
 ###
